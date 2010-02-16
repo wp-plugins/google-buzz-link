@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: headway
 Donate link: http://headwaymarketing.com/
-Tags: Google Buzz
+Tags: Google Buzz Link
 Requires at least: 2.0.0
 Tested up to: 2.9.1
 Stable tag: 1.0
 
-The Google Buzz plugin links your blog feed to your Google Buzz profile.
+The Google Buzz Link plugin links your blog feed to your Google Buzz profile.
 
 == Description ==
 
